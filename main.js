@@ -1,6 +1,6 @@
 // --- Data Array ---
 const songData = [
-    { image: "", title: "سوره البقرة", description: "عبد الباسط عبد الصمد", songFile: "" },
+    { image: "https://i.ytimg.com/vi/WQeCQfcB_nk/sddefault.jpg", title: "سوره البقرة", description: "عبد الباسط عبد الصمد", songFile: "" },
     ];
 
 // --- Global Player State ---
