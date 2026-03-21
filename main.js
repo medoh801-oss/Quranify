@@ -1,6 +1,6 @@
 // --- Data Array ---
 const songData = [
-    { image: "", title: "", description: "", songFile: "" },
+    { image: "", title: "سوره البقرة", description: "عبد الباسط عبد الصمد", songFile: "" },
     ];
 
 // --- Global Player State ---
